@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 2, Time elapsed: 0.418 s <<< FAILURE! - in TestSuite
+launchApplication(swetha.tests.SubmitOrderTest)  Time elapsed: 0.243 s  <<< FAILURE!
+java.io.FileNotFoundException: D:\Selenium\Udemy\SeleniumFrameworkDesign\src\main\java\Swetha\resources\GlobalData.preoperties (The system cannot find the file specified)
+
